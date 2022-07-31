@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 
+/**
+ * gets pid and ppid
+ * */
 int main(void)
 {
 	pid_t my_pid;

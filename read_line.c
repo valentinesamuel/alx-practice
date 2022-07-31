@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*used getline to receive text and print the text and its length*/
 int main (int argc, char **argv)
 {
 	size_t bytes_read;
