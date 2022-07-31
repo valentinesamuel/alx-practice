@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+/*prints all arguments without ac*/
 int main (int argc, char **argv)
 {
 	int i = 0;
